@@ -27,3 +27,5 @@ this only works if changes are in your staging area
 
 11. Diff b/w rm and restore
 ans: rm untracks file, restore only plays with working and staging area
+
+12. 'git diff commit1 commit2' -> gets changes between 2 commits
