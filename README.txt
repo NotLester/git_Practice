@@ -18,3 +18,6 @@ This staged area is the place where git knows what changes will be done from las
 it captures a snapshot of the projects, staged changes and creates version out of it.
 
 8. 'git commit' -> registers changing changes to a commit 
+
+9. 'git restore <file> ' -> removes all changes in staging area to be commited.
+This can be useful if we did dirty code and we do not want it no more.
