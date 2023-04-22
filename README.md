@@ -40,4 +40,12 @@ ans: rm untracks file, restore only plays with working and staging area
 
 Note: name of remote connection is used for communcation b/w end posts
 
+17. 'git pull <remote name> <branch name>' -> downloads all changes from remote in your local repo
 
+### recommended practice
+ -make changes
+ -git add <file>
+ -git commit
+ -git pull
+ -git push
+ 
