@@ -29,3 +29,15 @@ this only works if changes are in your staging area
 ans: rm untracks file, restore only plays with working and staging area
 
 12. 'git diff commit1 commit2' -> gets changes between 2 commits
+
+13. 'git remote' -> list down all remote connection names
+
+14. 'git remote add <remote name> <link of remote> ' -> links git with remote repo on github
+
+15. 'git remote rm <name of remote> ' -> deletes remote connection
+
+16. 'git remote rename <old> <new> ' -> renames remote connection
+
+Note: name of remote connection is used for communcation b/w end posts
+
+
